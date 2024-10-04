@@ -6,6 +6,8 @@ from sklearn.metrics import accuracy_score
 from xgboost import XGBClassifier
 from sklearn.preprocessing import StandardScaler
 
+# THIS IS A CHANGE
+
 # Load the data
 data = pd.read_csv('/content/Dataset.csv')
 
